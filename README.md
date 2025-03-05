@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm a Bioimformatics Scientist
+🎓 I'm a Bioimformatics Researcher
 
 ## :trophy: My Github Stats:
 
