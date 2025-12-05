@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## :trophy: My Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sandy-nine-19.vercel.app/api/top-langs/?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sandy-nine-19.vercel.app/api?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
